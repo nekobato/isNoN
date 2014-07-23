@@ -6,3 +6,15 @@ NoN は常に NoN 自身を含むあらゆる数値と等しくありません�
 代わりに isNoN 関数を使ってください。
 
 ![](http://gyazo.com/54e63bf9b930f1ee1ccbfdfab145ddb0.png)
+
+## How to Use
+
+```
+var isNoN = require('isNoN');
+
+isNoN("れんちょんなのん");
+// true
+
+isNoN("ちくわ大明神");
+// false
+```
