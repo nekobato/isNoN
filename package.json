@@ -1,0 +1,27 @@
+{
+  "name": "isNoN",
+  "version": "0.0.1",
+  "description": "isNoN",
+  "main": "lib/isnon.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "npm",
+    "coffee",
+    "nonnon-biyori"
+  ],
+  "author": "nekobato",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^1.1.1",
+    "coffee-script": "^1.7.1",
+    "mocha": "^1.20.1"
+  },
+  "dependencies": {
+    "coffee-script": "^1.7.1"
+  }
+}
